@@ -1,0 +1,5 @@
+Order id 2877
+Order date and time  2022-05-17T04:27:16.086588900
+Your order: 
+[Mustard-Crusted Pork Loin With Apple–Cabbage Slaw  ,pret: 77 , rating: 3.125 ,calorii 360 ,proteine: 37 ,grasimi: 17 ,sodiu: 925
+]Total price : 77

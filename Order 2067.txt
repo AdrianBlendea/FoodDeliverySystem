@@ -1,0 +1,5 @@
+Order id 2067
+Order date and time  2022-05-17T04:30:50.286935600
+Your order: 
+[Spiced Cherry Cider with Kirsch Cream  ,pret: 67 , rating: 5.0 ,calorii 195 ,proteine: 1 ,grasimi: 3 ,sodiu: 15
+]Total price : 67

@@ -1,0 +1,8 @@
+Order id 20164
+Order date and time  2022-05-17T01:13:31.094135
+Your order: 
+[Spiced Cherry Cider with Kirsch Cream  ,pret: 67 , rating: 5.0 ,calorii 195 ,proteine: 1 ,grasimi: 3 ,sodiu: 15
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+][Spiced Cherry Cider with Kirsch Cream  ,pret: 67 , rating: 5.0 ,calorii 195 ,proteine: 1 ,grasimi: 3 ,sodiu: 15
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+]Total price : 164

@@ -1,0 +1,5 @@
+Order id 2258
+Order date and time  2022-05-17T03:50:01.399602
+Your order: 
+[Tomato-Infused Bulgur Pilaf with Fresh Basil  ,pret: 58 , rating: 0.0 ,calorii 195 ,proteine: 7 ,grasimi: 5 ,sodiu: 469
+]Total price : 58

@@ -1,0 +1,5 @@
+Order id 2070
+Order date and time  2022-05-17T05:19:18.076434
+Your order: 
+[Pumpkin Seed Pesto  ,pret: 70 , rating: 3.75 ,calorii 442 ,proteine: 16 ,grasimi: 42 ,sodiu: 12
+]Total price : 70

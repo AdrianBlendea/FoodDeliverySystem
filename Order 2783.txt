@@ -1,0 +1,5 @@
+Order id 2783
+Order date and time  2022-05-17T04:27:12.127861600
+Your order: 
+[Chocolate-Chicory Sauce  ,pret: 83 , rating: 2.5 ,calorii 260 ,proteine: 2 ,grasimi: 22 ,sodiu: 17
+]Total price : 83

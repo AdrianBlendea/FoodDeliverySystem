@@ -1,0 +1,13 @@
+Order id 20291
+Order date and time  2022-05-17T03:52:30.512148200
+Your order: 
+[Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+][Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+][Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+, Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+]Total price : 291

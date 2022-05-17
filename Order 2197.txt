@@ -1,0 +1,5 @@
+Order id 2197
+Order date and time  2022-05-17T04:30:52.814300900
+Your order: 
+[Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+]Total price : 97

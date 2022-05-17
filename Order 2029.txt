@@ -1,0 +1,5 @@
+Order id 2029
+Order date and time  2022-05-17T04:09:59.747154
+Your order: 
+[Pork Chop Milanese with Arugula and Teardrop Tomatoes  ,pret: 29 , rating: 3.75 ,calorii 497 ,proteine: 20 ,grasimi: 36 ,sodiu: 294
+]Total price : 29

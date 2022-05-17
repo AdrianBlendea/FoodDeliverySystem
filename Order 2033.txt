@@ -1,0 +1,5 @@
+Order id 2033
+Order date and time  2022-05-17T04:24:19.396323800
+Your order: 
+[Pecan Molasses Bundt Cake with Bourbon Glaze  ,pret: 33 , rating: 4.375 ,calorii 359 ,proteine: 3 ,grasimi: 17 ,sodiu: 195
+]Total price : 33

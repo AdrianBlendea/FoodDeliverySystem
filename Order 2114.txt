@@ -1,0 +1,5 @@
+Order id 2114
+Order date and time  2022-05-17T05:19:20.601433
+Your order: 
+[Herb Grilled Chicken Wings  ,pret: 14 , rating: 3.75 ,calorii 569 ,proteine: 47 ,grasimi: 33 ,sodiu: 790
+]Total price : 14

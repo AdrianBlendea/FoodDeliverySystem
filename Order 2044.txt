@@ -1,0 +1,5 @@
+Order id 2044
+Order date and time  2022-05-17T02:16:36.484418800
+Your order: 
+[Cheddar Dill Biscuits  ,pret: 44 , rating: 4.375 ,calorii 196 ,proteine: 4 ,grasimi: 11 ,sodiu: 302
+]Total price : 44

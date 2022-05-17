@@ -1,0 +1,8 @@
+Order id 21118
+Order date and time  2022-05-17T02:16:06.797368900
+Your order: 
+[Mexican Corn  ,pret: 36 , rating: 4.375 ,calorii 196 ,proteine: 4 ,grasimi: 10 ,sodiu: 239
+, Frisée Salad with Goat Cheese Croques-Monsieurs  ,pret: 82 , rating: 4.375 ,calorii 359 ,proteine: 8 ,grasimi: 26 ,sodiu: 344
+][Mexican Corn  ,pret: 36 , rating: 4.375 ,calorii 196 ,proteine: 4 ,grasimi: 10 ,sodiu: 239
+, Frisée Salad with Goat Cheese Croques-Monsieurs  ,pret: 82 , rating: 4.375 ,calorii 359 ,proteine: 8 ,grasimi: 26 ,sodiu: 344
+]Total price : 118

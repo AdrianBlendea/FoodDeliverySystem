@@ -1,0 +1,8 @@
+Order id 20145
+Order date and time  2022-05-17T02:16:00.137340
+Your order: 
+[Grilled Monster Pork Chops with Tomatillo and Green Apple Sauce  ,pret: 63 , rating: 3.125 ,calorii 660 ,proteine: 21 ,grasimi: 23 ,sodiu: 419
+, Frisée Salad with Goat Cheese Croques-Monsieurs  ,pret: 82 , rating: 4.375 ,calorii 359 ,proteine: 8 ,grasimi: 26 ,sodiu: 344
+][Grilled Monster Pork Chops with Tomatillo and Green Apple Sauce  ,pret: 63 , rating: 3.125 ,calorii 660 ,proteine: 21 ,grasimi: 23 ,sodiu: 419
+, Frisée Salad with Goat Cheese Croques-Monsieurs  ,pret: 82 , rating: 4.375 ,calorii 359 ,proteine: 8 ,grasimi: 26 ,sodiu: 344
+]Total price : 145

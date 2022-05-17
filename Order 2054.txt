@@ -1,0 +1,5 @@
+Order id 2054
+Order date and time  2022-05-17T02:18:49.014473600
+Your order: 
+[Vinegared Rice  ,pret: 54 , rating: 3.75 ,calorii 184 ,proteine: 3 ,grasimi: 0 ,sodiu: 330
+]Total price : 54

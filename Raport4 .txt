@@ -1,0 +1,13 @@
+Produse comandate in ziua 17
+Chocolate-Chicory Sauce  ,pret: 83 , rating: 2.5 ,calorii 260 ,proteine: 2 ,grasimi: 22 ,sodiu: 17
+ 
+Mustard-Crusted Pork Loin With Apple–Cabbage Slaw  ,pret: 77 , rating: 3.125 ,calorii 360 ,proteine: 37 ,grasimi: 17 ,sodiu: 925
+ 
+New Potato Salad with Sauteed Onion Vinaigrette  ,pret: 76 , rating: 3.125 ,calorii 196 ,proteine: 5 ,grasimi: 3 ,sodiu: 79
+ 
+Spiced Cherry Cider with Kirsch Cream  ,pret: 67 , rating: 5.0 ,calorii 195 ,proteine: 1 ,grasimi: 3 ,sodiu: 15
+ 
+Sweet Corn and Tomato Salad with Fresh Cilantro  ,pret: 97 , rating: 4.375 ,calorii 196 ,proteine: 5 ,grasimi: 9 ,sodiu: 26
+ 
+Tomato-Infused Bulgur Pilaf with Fresh Basil  ,pret: 58 , rating: 0.0 ,calorii 195 ,proteine: 7 ,grasimi: 5 ,sodiu: 469
+ 

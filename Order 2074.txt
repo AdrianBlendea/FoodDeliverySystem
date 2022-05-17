@@ -1,0 +1,5 @@
+Order id 2074
+Order date and time  2022-05-17T04:00:02.836261500
+Your order: 
+[Southern Corn Bread Stuffing with Smoked Ham and Yams  ,pret: 74 , rating: 3.75 ,calorii 196 ,proteine: 11 ,grasimi: 11 ,sodiu: 626
+]Total price : 74

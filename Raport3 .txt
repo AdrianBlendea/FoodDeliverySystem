@@ -1,0 +1,4 @@
+Persoane au avut mai mult de 2 comenzi cu valoarea mai mare de10
+ionell
+adrian
+vasile

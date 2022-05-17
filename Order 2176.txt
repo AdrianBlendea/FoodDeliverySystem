@@ -1,0 +1,5 @@
+Order id 2176
+Order date and time  2022-05-17T04:26:51.787900500
+Your order: 
+[New Potato Salad with Sauteed Onion Vinaigrette  ,pret: 76 , rating: 3.125 ,calorii 196 ,proteine: 5 ,grasimi: 3 ,sodiu: 79
+]Total price : 76

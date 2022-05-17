@@ -1,0 +1,5 @@
+Order id 2141
+Order date and time  2022-05-17T02:16:38.627260300
+Your order: 
+[Lamb Stew with Spinach and Garbanzo Beans  ,pret: 41 , rating: 4.375 ,calorii 660 ,proteine: 64 ,grasimi: 36 ,sodiu: 2572
+]Total price : 41
